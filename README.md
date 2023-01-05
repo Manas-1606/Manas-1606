@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)
 
 <h1 align="center">Hi 👋, I'm Manas</h1>
 <h3 align="center">A machine learning enthusiast and a passionate data science geek</h3>
